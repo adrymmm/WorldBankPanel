@@ -1,0 +1,10 @@
+pandas
+matplotlib
+statsmodels
+linearmodels
+patsy
+scikit-learn
+numpy
+requests
+pycountry
+pandas-datareader
